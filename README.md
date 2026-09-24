@@ -4,12 +4,12 @@ SpendWise is a web application designed to help users track their income, budget
 
 ---
 
-## 🚀 What the Project Does
+## What the Project Does
 SpendWise serves as an interactive financial dashboard shell. With the newly integrated JavaScript layer, it transitions from a static layout into a dynamic application that calculates remaining balances, processes user prompts, records expense inputs, and outputs clear financial summaries directly to the developer console.
 
 ---
 
-## 🧠 JavaScript Concepts Implemented
+## JavaScript Concepts Implemented
 
 ### 1. Variables and Data Types
 Variables are used throughout `script.js` to store fundamental application states using `let`:
